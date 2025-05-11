@@ -1,1 +1,1 @@
-just for python
+在termianl下使用jupter lab 命令
